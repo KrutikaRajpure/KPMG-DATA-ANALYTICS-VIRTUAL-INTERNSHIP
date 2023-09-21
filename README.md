@@ -8,6 +8,7 @@ They had a list of new customers who do not have prior transactions with them an
 # Power Query
 
 <img width="959" alt="Power Query" src="https://github.com/KrutikaRajpure/KPMG-DATA-ANALYTICS-VIRTUAL-INTERNSHIP/assets/59536968/ad4f496d-5e56-48dc-88fc-e1502001bda8">
+
 # Relationship Between Table
 
 <img width="393" alt="Relationship between Table" src="https://github.com/KrutikaRajpure/KPMG-DATA-ANALYTICS-VIRTUAL-INTERNSHIP/assets/59536968/74b27427-1c92-4bc7-b2f6-a5edfde04273">
